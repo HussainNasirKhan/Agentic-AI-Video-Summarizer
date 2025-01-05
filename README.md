@@ -1,5 +1,5 @@
 # Agentic AI - Video Summarizer
-An intelligent agent-based video analysis platform powered by Gemini Pro Vision that provides comprehensive summaries and insights from video content with contextual search capabilities.
+Advanced video summarization platform using Agentic AI for intelligent content analysis and contextual understanding.
 
 ## Features
 - Video content analysis using gemini-2.0-flash-exp
